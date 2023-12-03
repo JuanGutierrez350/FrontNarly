@@ -1,0 +1,136 @@
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Lopez",
+      "email": "juan@gmail.com",
+      "password": "lopez",
+      "confirmar": "lopez234"
+    },
+    {
+      "nombre": "jeanpool lopez",
+      "email": "jeanpoollopez@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "nombre": "Admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "id": 6
+    },
+    {
+      "nombre": "Carlos Duran",
+      "email": "juan@gmail.com",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "nombre": "Carlos",
+      "email": "carlos@gmail.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "nombre": "Rodrigo",
+      "email": "juandavidgv678@gmail.com",
+      "password": "1254216413631",
+      "id": 9
+    }
+  ],
+  "Medicos": [
+    {
+      "id": 1,
+      "nombre": "Juan Mora",
+      "email": "Andres@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "Citas": [
+    {
+      "nombrePerro": "Belcan",
+      "fecha": "2023-12-11",
+      "hora": "12:32",
+      "descripcion": "Mi perro presenta popis agudo ",
+      "id": 1
+    },
+    {
+      "estado": "rechazada",
+      "id": 2
+    },
+    {
+      "estado": "rechazada",
+      "id": 3
+    }
+  ],
+  "CitasAgendadas": [
+    {}
+  ],
+  "CitasEditar": [
+    {
+      "fecha": "2023-09-20",
+      "hora": "10:20",
+      "nombre": "12:00",
+      "id": 1
+    }
+  ],
+  "Productos": [
+    {
+      "nombre": "Comida Premium para Gatos",
+      "precio": "8.000",
+      "categoria": "alimentacion",
+      "subcategoria": "gatos",
+      "imagen": "https://petcol.co/cdn/shop/products/1_1ab4dbb3-235d-48fa-acc9-ee7d302470bb_390x.jpg?v=1686087447",
+      "id": "eiuwyn"
+    },
+    {
+      "nombre": "Comida Premium para Perros",
+      "precio": "8.000",
+      "categoria": "alimentacion",
+      "subcategoria": "perros",
+      "imagen": "https://petcol.co/cdn/shop/products/ChunkyAdultosPollo_540x.jpg?v=1640626276",
+      "id": "ewnyciuewc"
+    },
+    {
+      "nombre": "Comida Premium para Perros",
+      "precio": "8.000",
+      "categoria": "alimentacion",
+      "subcategoria": "perros",
+      "imagen": "https://petcol.co/cdn/shop/products/hills_adulto_small_paws_pollo_540x.png?v=1578604260",
+      "id": "rcntew"
+    },
+    {
+      "nombre": "Desparasitante",
+      "precio": "5.000",
+      "categoria": "medicina",
+      "imagen": "1",
+      "id": "2qw7r1"
+    },
+    {
+      "nombre": "Desparasitante para gatos",
+      "precio": "5.000",
+      "categoria": "medicina",
+      "imagen": "https://vetmasagro.com/wp-content/uploads/2021/03/Advocate-gato-de-4-a-8.png",
+      "id": "21421"
+    },
+    {
+      "nombre": "Collar Lindo",
+      "precio": "15.000",
+      "categoria": "accesorios",
+      "subcategoria": "collares",
+      "imagen": "URL_IMAGEN_4",
+      "id": "oa0gcWk"
+    },
+    {
+      "nombre": "Juguete para Perros",
+      "precio": "10.000",
+      "categoria": "juguetes",
+      "imagen": "URL_IMAGEN_5",
+      "id": "b8s23d"
+    }
+  ],
+  "compras": [
+    {}
+  ]
+}
